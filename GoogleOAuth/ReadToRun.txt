@@ -1,0 +1,6 @@
+In this project, go to folder apache-tomcat-9.0.105 and turn on command prompt. After that run this command ".\bin\startup.bat" macOS/Linux: .\bin\startup.sh
+Sever is active: open browser find link "http://localhost:8080/mygmail/"
+
+In login part, you need to trust my api, because my api not verify.
+So in warning page after choose email:
+	Chọn nâng cao, chọn vào trang không an toàn.
